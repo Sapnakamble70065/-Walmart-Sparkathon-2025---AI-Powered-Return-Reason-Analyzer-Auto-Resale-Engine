@@ -43,11 +43,9 @@ Returns cost Walmart billions every year. This project helps Walmart:
 ├── requirements.txt  
 └── README.md  
 
-## 🔥 Demo Screenshot  
-(Add UI screenshots here)
 
 ## 📺 Demo Video  
-[YouTube Link Here]
+https://youtu.be/uNCrQ7Fu4KY?si=Z1t61Xf6TZ6zkW9i
 
 ## 🤝 Team Abhiyaan  
 - Sapna Dahikamble  
